@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertcorumlu&label=Profile%20views&color=0e75b6&style=flat" alt="mertcorumlu" /> </p>
 
-- 🔭 I’m currently working on **Chess Engine Optimization with C++**
+- 🔭 I’m currently working on **IOS Development, Computational Social Science and Backend Development**
 
-- 🌱 I’m currently learning **operating systems and low level optimizations.😅**
+- 🌱 I’m currently learning **Swift, Apple UIKit and NLP.😅**
 
 - 📫 How to reach me **mert.corumlu@tum.de**
 
